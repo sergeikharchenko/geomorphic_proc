@@ -3,6 +3,6 @@ The repository to collect my R-scripts for analysing geomorphic processes distri
 
 1) proc_distrib.R - the script provides a function to compute distribution of geomorphic processes over the flow path length raster.
 
-The example of results (geomorphic processes distribution over the Djancuat stream catchment, the Greater Caucasus, Russia, the outlet - Glaciological station of MSU):
+The example of results (geomorphic processes distribution over the Djankuat stream catchment, the Greater Caucasus, Russia, the outlet - Glaciological station of MSU):
 ![geom_catena_djan](https://github.com/sergeikharchenko/geomorphic_proc/assets/59537139/bec7c3b5-74b6-4c6e-824d-cae69dc442b1)
 Axe X - relative flow path distance (twenty percentiles of distance), Axe Y - part of the area.
